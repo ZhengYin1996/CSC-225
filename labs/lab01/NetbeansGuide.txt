@@ -1,0 +1,8 @@
+To install netbeans look at the official page:
+
+https://netbeans.org/community/releases/82/
+
+Also, here is a useful and brief to tutorial that shows how you can use 
+the debugger feature in netbeans:
+
+https://www.youtube.com/watch?v=joWldbcp1So

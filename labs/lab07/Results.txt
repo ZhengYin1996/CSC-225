@@ -1,0 +1,27 @@
+99 found at 2
+88 found at 6
+78 found at 3
+43 found at 9
+57 found at 4
+34 found at 0
+69 found at 10
+23 found at 5
+25 found at 7
+93 found at 8
+13 found at 1
+8 found at 15
+71 found at 14
+====================
+99 found at 2
+88 not found
+78 not found
+43 found at 9
+57 found at 4
+34 found at 0
+69 found at 10
+23 found at 5
+25 found at 7
+93 found at 8
+13 found at 1
+8 found at 15
+71 found at 14
